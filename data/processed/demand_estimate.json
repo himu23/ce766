@@ -1,0 +1,40 @@
+{
+  "intervals": [
+    {
+      "start": "2024-01-10",
+      "end": "2024-01-11",
+      "days": 1,
+      "decline_ML_d": 465.0,
+      "draw_off_ML_d": 418.6016443517557
+    },
+    {
+      "start": "2024-01-11",
+      "end": "2024-01-12",
+      "days": 1,
+      "decline_ML_d": 465.0,
+      "draw_off_ML_d": 416.85492901584263
+    },
+    {
+      "start": "2024-01-12",
+      "end": "2024-01-13",
+      "days": 1,
+      "decline_ML_d": 465.0,
+      "draw_off_ML_d": 417.08728879141563
+    },
+    {
+      "start": "2024-01-13",
+      "end": "2024-01-14",
+      "days": 1,
+      "decline_ML_d": 464.0,
+      "draw_off_ML_d": 415.35390024876676
+    },
+    {
+      "start": "2024-01-14",
+      "end": "2024-05-16",
+      "days": 123,
+      "decline_ML_d": 421.8943089430894,
+      "draw_off_ML_d": 371.7663549917929
+    }
+  ],
+  "note": "draw-off = storage decline minus net lake evaporation, inflow assumed zero in Jan-May"
+}
