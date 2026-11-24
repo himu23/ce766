@@ -1,3 +1,8 @@
 data/raw/imd/
 data/raw/dem.tif
+data/raw/cmip6/cache/
 __pycache__/
+slides/
+.claude/
+outputs/sow_measures.npz
+outputs/final_submission.md

@@ -8,3 +8,5 @@ shapely
 rasterio
 pyflwdir
 imdlib
+numba
+pymoo
